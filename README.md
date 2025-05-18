@@ -22,6 +22,16 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
+🔒 Security Notes
+- ⚠️ The script will rename files directly and overwrite names, so if something goes wrong, you might lose track of original filenames.
+- 🚫 Avoid running the script on system folders or important directories to prevent accidental renaming of critical files.
+- 🛡️ Use the file extension filter carefully to limit renaming only to specific file types you want to organize.
+- 📝 This script does not support undo, so double-check inputs before running.
+
+
+
+---
+
 ## 🛠️ How to Use
 1. Make sure you have Python installed (Python 3 recommended).
 2. Clone this repository
@@ -64,6 +74,11 @@ After:
 ├── 🖼️ holiday_2.jpg
 ├── 🖼️ holiday_3.jpg
 ```
+
+---
+
+## 🤝 Contributing
+Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
