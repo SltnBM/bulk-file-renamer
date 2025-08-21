@@ -54,6 +54,7 @@ Only rename files with this extension (e.g. .jpg), or leave blank:
 ```
 
 📂 Example Output
+
 Before:
 ```bash
 📁 Photos/
