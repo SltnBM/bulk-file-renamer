@@ -1,5 +1,4 @@
-# 📝 Bulk File Renamer - Python Project
-
+# 📝 Bulk File Renamer
 A simple Python script to rename multiple files in a folder with a chosen prefix and numbering sequence. Files are renamed based on their last modified time (oldest first). Perfect for organizing photo collections, scanned documents, or any file batch.
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
@@ -22,13 +21,11 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
-🔒 Security Notes
+## 🔒 Security Notes
 - ⚠️ The script will rename files directly and overwrite names, so if something goes wrong, you might lose track of original filenames.
 - 🚫 Avoid running the script on system folders or important directories to prevent accidental renaming of critical files.
 - 🛡️ Use the file extension filter carefully to limit renaming only to specific file types you want to organize.
 - 📝 This script does not support undo, so double-check inputs before running.
-
-
 
 ---
 
@@ -82,5 +79,9 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin\&logoColor=white\&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
+
+---
 ## 📝 License
 This project is open-source and free to use.
