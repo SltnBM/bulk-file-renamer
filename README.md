@@ -53,9 +53,7 @@ Enter the starting number: 1
 Only rename files with this extension (e.g. .jpg), or leave blank:
 ```
 
----
-
-## 📂 Example Output
+📂 Example Output
 Before:
 ```bash
 📁 Photos/
