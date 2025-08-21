@@ -83,4 +83,4 @@ Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 ## 📝 License
-This project is open-source and free to use.
+This project is open-source and free to use under the MIT [LICENSE](./LICENSE).
