@@ -29,7 +29,7 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
-## 🛠️ How to Use
+## 🚀 How to Use
 1. Make sure you have Python installed (Python 3 recommended).
 2. Clone this repository
 ```bash
