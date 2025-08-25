@@ -30,7 +30,7 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 ---
 
 ## 🚀 How to Use
-1. Make sure you have Python installed (Python 3 recommended).
+1. Make sure you have Python installed (Python 3 or higher recommended). Download it from [python.org](https://www.python.org/downloads/).  
 2. Clone this repository
 ```bash
 git clone https://github.com/SltnBM/bulk-file-renamer.git
