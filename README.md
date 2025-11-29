@@ -1,4 +1,4 @@
-# 📝 Bulk File Renamer
+# Bulk File Renamer
 A simple Python script to rename multiple files in a folder with a chosen prefix and numbering sequence. Files are renamed based on their last modified time (oldest first). Perfect for organizing photo collections, scanned documents, or any file batch.
 
 ![Python](https://img.shields.io/badge/python-3.x-blue)
@@ -6,7 +6,7 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
-## ✨ Features
+## Features
 - Rename files in bulk using a custom prefix and number sequence
 - Sorts files by last modified time (oldest → newest)
 - Optionally filter by file extension (e.g. only `.jpg`)
@@ -15,13 +15,13 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
-## 📋 Requirements
+## Requirements
 - Python 3.x
 - No external libraries required — only Python's built-in modules (os, os.path).  
 
 ---
 
-## 🔒 Security Notes
+## Security Notes
 - The script will rename files directly and overwrite names, so if something goes wrong, you might lose track of original filenames.
 - Avoid running the script on system folders or important directories to prevent accidental renaming of critical files.
 - Use the file extension filter carefully to limit renaming only to specific file types you want to organize.
@@ -29,7 +29,7 @@ A simple Python script to rename multiple files in a folder with a chosen prefix
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Make sure you have Python installed (Python 3 or higher recommended). Download it from [python.org](https://www.python.org/downloads/).  
 2. Clone this repository
 ```bash
@@ -57,7 +57,7 @@ Example Output
 
 Before:
 ```bash
-📁 Photos/
+Photos/
 ├──  IMG_1825.jpg
 ├──  DSC_0012.jpg
 ├──  IMG_2025.jpg
@@ -65,7 +65,7 @@ Before:
 
 After:
 ```bash
-📁 Photos/
+Photos/
 ├──  holiday_1.jpg
 ├──  holiday_2.jpg
 ├──  holiday_3.jpg
@@ -73,14 +73,14 @@ After:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Feel free to open issues or submit pull requests for improvements or bug fixes.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultan%20Badra-blue?logo=linkedin\&logoColor=white\&style=flat-square)](https://www.linkedin.com/in/sultan-badra)
 
 ---
-## 📝 License
+## License
 This project is open-source and free to use under the MIT [LICENSE](./LICENSE).
